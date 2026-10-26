@@ -8,7 +8,7 @@
     "test:node": "node --experimental-strip-types repro-node.ts"
   },
   "devDependencies": {
-    "vitest": "^4.1.9",
+    "vitest": "^4.1.12",
     "msw": "^2.14.6"
   }
 }
